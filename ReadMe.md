@@ -1,14 +1,10 @@
-# 🎥 Détection d'objets avec YOLOv8
+Détection d'objets avec YOLOv8
 
-Ce projet montre comment utiliser **YOLOv8** (Ultralytics) pour appliquer la détection d’objets sur des **images** et des **vidéos**, en utilisant **Python**, **OpenCV**, et **Pandas** dans un environnement comme Google Colab.
-
----
-
-## 🚀 Installation
+Ce projet montre comment utiliser YOLOv8 (Ultralytics) pour appliquer la détection d’objets sur des images et des vidéos, en utilisant Python, OpenCV, et Pandas dans un environnement comme Google Colab.
+🚀 Installation
 
 Avant de lancer le code, installe les dépendances nécessaires :
 
-```bash
 pip install ultralytics tensorflow keras opencv-python pandas
 
 Structure du projet
@@ -42,4 +38,3 @@ Structure du projet
     Extraire et analyser les résultats avec Pandas.
 
     Visualiser les résultats dans Colab.
-
